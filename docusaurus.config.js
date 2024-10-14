@@ -100,7 +100,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Main',
                 to: '/docs/intro',
               },
             ],

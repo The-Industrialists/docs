@@ -37,6 +37,6 @@ This account will be used for logging in into various services.
 
 Now create a Huly account at [huly.io](https://huly.io)
 :::tip
-Make sure to select login with github option.
+Make sure to select login with Github option.
 This account will be used for company purposes.
 :::

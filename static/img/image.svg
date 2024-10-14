@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="425.05026"
+   height="431.58942"
+   viewBox="0 0 425.05026 431.58942"
+   version="1.1"
+   id="svg5"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient12504">
+      <stop
+         style="stop-color:#36ffd6;stop-opacity:1;"
+         offset="0"
+         id="stop12500" />
+      <stop
+         style="stop-color:#3dff2b;stop-opacity:1;"
+         offset="0.99989998"
+         id="stop12502" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient12504"
+       id="linearGradient12506"
+       x1="-448.01566"
+       y1="98.33268"
+       x2="-280.2124"
+       y2="80.323776"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-52.616699,-28.713047)">
+    <rect
+       style="fill:#525252;fill-opacity:1;stroke:none;stroke-width:32.4049;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7975"
+       width="72.86338"
+       height="247.2009"
+       x="328.42368"
+       y="-144.23933"
+       rx="0"
+       ry="40.154461"
+       transform="matrix(0.62834593,0.77793405,-0.6325404,0.77452736,0,0)" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#797979;stroke-width:23.601;stroke-dasharray:none;stroke-opacity:1"
+       id="path788"
+       d="M -211.9809,20.009911 A 154.78461,154.78461 0 0 1 -289.99151,154.4124 154.78461,154.78461 0 0 1 -445.3895,153.33861 154.78461,154.78461 0 0 1 -521.53533,17.87091"
+       transform="rotate(-144.75675)" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#797979;stroke-width:23.601;stroke-dasharray:none;stroke-opacity:1"
+       id="path788-1"
+       d="M 503.29272,113.3939 A 154.78461,154.78461 0 0 1 425.28211,247.79639 154.78461,154.78461 0 0 1 269.88412,246.7226 154.78461,154.78461 0 0 1 193.73829,111.2549"
+       transform="rotate(35.24325)" />
+    <path
+       style="mix-blend-mode:normal;fill:url(#linearGradient12506);fill-opacity:1;stroke:none;stroke-width:30.3365;stroke-dasharray:none;stroke-opacity:1"
+       id="path11712"
+       d="M -241.57637,32.414165 A 121.58299,121.58299 0 0 1 -362.72202,153.99637 121.58299,121.58299 0 0 1 -484.73921,33.288845 Z"
+       transform="rotate(-142.94776)" />
+  </g>
+</svg>

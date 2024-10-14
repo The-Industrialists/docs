@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_industrialists_docs=self.webpackChunkthe_industrialists_docs||[]).push([[235],{8552:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

@@ -2,33 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://the-industrialists.github.io/docs/blog</id>
     <title>The Industrialists Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-10-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://the-industrialists.github.io/docs/blog"/>
     <subtitle>The Industrialists Blog</subtitle>
-    <icon>https://the-industrialists.github.io/docs/static/img/favicon.ico</icon>
+    <icon>https://the-industrialists.github.io/docs/static/img/</icon>
     <entry>
-        <title type="html"><![CDATA[welcome]]></title>
-        <id>https://the-industrialists.github.io/docs/blog/2021/08/26/welcome</id>
-        <link href="https://the-industrialists.github.io/docs/blog/2021/08/26/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mdx-blog-post]]></title>
-        <id>https://the-industrialists.github.io/docs/blog/2021/08/01/mdx-blog-post</id>
-        <link href="https://the-industrialists.github.io/docs/blog/2021/08/01/mdx-blog-post"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[long-blog-post]]></title>
-        <id>https://the-industrialists.github.io/docs/blog/2019/05/29/long-blog-post</id>
-        <link href="https://the-industrialists.github.io/docs/blog/2019/05/29/long-blog-post"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[first-blog-post]]></title>
-        <id>https://the-industrialists.github.io/docs/blog/2019/05/28/first-blog-post</id>
-        <link href="https://the-industrialists.github.io/docs/blog/2019/05/28/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://the-industrialists.github.io/docs/blog/welcome</id>
+        <link href="https://the-industrialists.github.io/docs/blog/welcome"/>
+        <updated>2024-10-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the news page!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the news page!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="first-post">First post<a href="https://the-industrialists.github.io/docs/blog/welcome#first-post" class="hash-link" aria-label="Direct link to First post" title="Direct link to First post">​</a></h2>
+<p>News about our products will be posted here.</p>]]></content>
+        <author>
+            <name>editspace</name>
+        </author>
     </entry>
 </feed>

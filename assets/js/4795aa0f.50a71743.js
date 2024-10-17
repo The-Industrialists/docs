@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_industrialists_docs=self.webpackChunkthe_industrialists_docs||[]).push([[978],{3937:s=>{s.exports=JSON.parse('{"authors":[{"name":"editspace","title":"Owner of The Industrialists","key":"editspace","page":null,"count":1}]}')}}]);

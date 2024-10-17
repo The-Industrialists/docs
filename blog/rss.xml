@@ -1,36 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>The Industrialists Blog</title>
         <link>https://the-industrialists.github.io/docs/blog</link>
         <description>The Industrialists Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[welcome]]></title>
-            <link>https://the-industrialists.github.io/docs/blog/2021/08/26/welcome</link>
-            <guid>https://the-industrialists.github.io/docs/blog/2021/08/26/welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[mdx-blog-post]]></title>
-            <link>https://the-industrialists.github.io/docs/blog/2021/08/01/mdx-blog-post</link>
-            <guid>https://the-industrialists.github.io/docs/blog/2021/08/01/mdx-blog-post</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[long-blog-post]]></title>
-            <link>https://the-industrialists.github.io/docs/blog/2019/05/29/long-blog-post</link>
-            <guid>https://the-industrialists.github.io/docs/blog/2019/05/29/long-blog-post</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[first-blog-post]]></title>
-            <link>https://the-industrialists.github.io/docs/blog/2019/05/28/first-blog-post</link>
-            <guid>https://the-industrialists.github.io/docs/blog/2019/05/28/first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://the-industrialists.github.io/docs/blog/welcome</link>
+            <guid>https://the-industrialists.github.io/docs/blog/welcome</guid>
+            <pubDate>Sun, 13 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the news page!]]></description>
+            <content:encoded><![CDATA[<p>Welcome to the news page!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="first-post">First post<a href="https://the-industrialists.github.io/docs/blog/welcome#first-post" class="hash-link" aria-label="Direct link to First post" title="Direct link to First post">​</a></h2>
+<p>News about our products will be posted here.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

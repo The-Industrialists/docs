@@ -11,7 +11,9 @@ const FeatureList = [
       Documentataion for our Minecraft 1.12.2 mod.
       </>
     ),
+
   },
+
 ];
 
 function Feature({Svg, title, description}) {
